@@ -1,3 +1,7 @@
+# NOTE
+The development of the package has moved to https://github.com/pylipp/pydartz.
+
+
 # pydartz
 
 >   A Python2/3 assistant (and library) for playing darts
